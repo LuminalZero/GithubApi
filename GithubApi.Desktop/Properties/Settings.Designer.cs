@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace StockAnalyzer.Windows.Properties
+namespace GithubApi.Desktop.Properties
 {
 
 
