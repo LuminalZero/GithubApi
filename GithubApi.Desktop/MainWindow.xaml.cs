@@ -7,7 +7,7 @@ using System.Windows;
 using System.Windows.Input;
 using Newtonsoft.Json;
 
-namespace StockAnalyzer.Windows
+namespace GithubApi.Desktop
 {
     public partial class MainWindow : Window
     {
