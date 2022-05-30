@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace StockAnalyzer.Windows
+namespace GithubApi.Desktop
 {
     /// <summary>
     /// Interaction logic for App.xaml
